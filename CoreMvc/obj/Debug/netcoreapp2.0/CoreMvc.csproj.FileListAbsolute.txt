@@ -1,0 +1,16 @@
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\bin\Debug\netcoreapp2.0\CoreMvc.deps.json
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\bin\Debug\netcoreapp2.0\CoreMvc.runtimeconfig.json
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\bin\Debug\netcoreapp2.0\CoreMvc.runtimeconfig.dev.json
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\bin\Debug\netcoreapp2.0\CoreMvc.dll
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\bin\Debug\netcoreapp2.0\CoreMvc.pdb
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\bin\Debug\netcoreapp2.0\RabbitMQ_SignalR_Core.dll
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\bin\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.dll
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\bin\Debug\netcoreapp2.0\RabbitMQ_SignalR_Core.pdb
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\bin\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.pdb
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.csprojResolveAssemblyReference.cache
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.csproj.CoreCompileInputs.cache
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.AssemblyInfoInputs.cache
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.AssemblyInfo.cs
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.dll
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.pdb

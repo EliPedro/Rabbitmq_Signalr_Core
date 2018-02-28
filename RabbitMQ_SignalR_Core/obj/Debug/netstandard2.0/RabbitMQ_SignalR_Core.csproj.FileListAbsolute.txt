@@ -1,0 +1,9 @@
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Core\bin\Debug\netstandard2.0\RabbitMQ_SignalR_Core.deps.json
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Core\bin\Debug\netstandard2.0\RabbitMQ_SignalR_Core.dll
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Core\bin\Debug\netstandard2.0\RabbitMQ_SignalR_Core.pdb
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Core\obj\Debug\netstandard2.0\RabbitMQ_SignalR_Core.csprojResolveAssemblyReference.cache
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Core\obj\Debug\netstandard2.0\RabbitMQ_SignalR_Core.csproj.CoreCompileInputs.cache
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Core\obj\Debug\netstandard2.0\RabbitMQ_SignalR_Core.AssemblyInfoInputs.cache
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Core\obj\Debug\netstandard2.0\RabbitMQ_SignalR_Core.AssemblyInfo.cs
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Core\obj\Debug\netstandard2.0\RabbitMQ_SignalR_Core.dll
+F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Core\obj\Debug\netstandard2.0\RabbitMQ_SignalR_Core.pdb
