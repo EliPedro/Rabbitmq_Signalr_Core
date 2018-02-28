@@ -12154,7 +12154,7 @@
       ]
     },
     "System.Runtime.Serialization.Json/4.0.2": {
-      "sha512": "1XRQmge3BnypGU2Erud1K5xMvzOau9jB9sCPJPNobq8WwM2188W4WSt89f8MP0eDMFi8v+gDxr0XfNOyZImArQ==",
+      "sha512": "+7DIJhnKYgCzUgcLbVTtRQb2l1M0FP549XFlFkQM5lmNiUBl44AfNbx4bz61xA8PzLtlYwfmif4JJJW7MPPnjg==",
       "type": "package",
       "path": "system.runtime.serialization.json/4.0.2",
       "files": [
@@ -13796,7 +13796,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\elipe\\.nuget\\packages\\": {},
+    "C:\\Users\\eli.santos\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13805,35 +13806,36 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "F:\\Pessoal\\Desenvolvimento\\RabbitMQ\\RabbitMQ-SignalR\\CoreMvc\\CoreMvc.csproj",
+      "projectUniqueName": "C:\\Users\\eli.santos\\Desktop\\Meus Documentos\\Desenvolvimento\\GIT\\Rabbitmq_Signalr_Core\\CoreMvc\\CoreMvc.csproj",
       "projectName": "CoreMvc",
-      "projectPath": "F:\\Pessoal\\Desenvolvimento\\RabbitMQ\\RabbitMQ-SignalR\\CoreMvc\\CoreMvc.csproj",
-      "packagesPath": "C:\\Users\\elipe\\.nuget\\packages\\",
-      "outputPath": "F:\\Pessoal\\Desenvolvimento\\RabbitMQ\\RabbitMQ-SignalR\\CoreMvc\\obj\\",
+      "projectPath": "C:\\Users\\eli.santos\\Desktop\\Meus Documentos\\Desenvolvimento\\GIT\\Rabbitmq_Signalr_Core\\CoreMvc\\CoreMvc.csproj",
+      "packagesPath": "C:\\Users\\eli.santos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eli.santos\\Desktop\\Meus Documentos\\Desenvolvimento\\GIT\\Rabbitmq_Signalr_Core\\CoreMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\elipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\eli.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\elipe\\.dotnet\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "F:\\Pessoal\\Desenvolvimento\\RabbitMQ\\RabbitMQ-SignalR\\RabbitMQ_SignalR_Service\\RabbitMQ_SignalR_Service.csproj": {
-              "projectPath": "F:\\Pessoal\\Desenvolvimento\\RabbitMQ\\RabbitMQ-SignalR\\RabbitMQ_SignalR_Service\\RabbitMQ_SignalR_Service.csproj"
+            "C:\\Users\\eli.santos\\Desktop\\Meus Documentos\\Desenvolvimento\\GIT\\Rabbitmq_Signalr_Core\\RabbitMQ_SignalR_Core\\RabbitMQ_SignalR_Core.csproj": {
+              "projectPath": "C:\\Users\\eli.santos\\Desktop\\Meus Documentos\\Desenvolvimento\\GIT\\Rabbitmq_Signalr_Core\\RabbitMQ_SignalR_Core\\RabbitMQ_SignalR_Core.csproj"
             },
-            "F:\\Pessoal\\Desenvolvimento\\RabbitMQ\\RabbitMQ-SignalR\\RabbitMQ_SignalR_Core\\RabbitMQ_SignalR_Core.csproj": {
-              "projectPath": "F:\\Pessoal\\Desenvolvimento\\RabbitMQ\\RabbitMQ-SignalR\\RabbitMQ_SignalR_Core\\RabbitMQ_SignalR_Core.csproj"
+            "C:\\Users\\eli.santos\\Desktop\\Meus Documentos\\Desenvolvimento\\GIT\\Rabbitmq_Signalr_Core\\RabbitMQ_SignalR_Service\\RabbitMQ_SignalR_Service.csproj": {
+              "projectPath": "C:\\Users\\eli.santos\\Desktop\\Meus Documentos\\Desenvolvimento\\GIT\\Rabbitmq_Signalr_Core\\RabbitMQ_SignalR_Service\\RabbitMQ_SignalR_Service.csproj"
             }
           }
         }
@@ -13847,28 +13849,28 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.All": {
+            "target": "Package",
+            "version": "[2.0.3, )"
+          },
+          "Microsoft.AspNetCore.SignalR": {
+            "target": "Package",
+            "version": "[1.0.0-alpha2-final, )"
+          },
           "Microsoft.EntityFrameworkCore.Tools": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.1"
+            "version": "[2.0.1, )"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.1"
-          },
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "2.0",
-            "autoReferenced": true
-          },
-          "Microsoft.AspNetCore.All": {
-            "target": "Package",
-            "version": "2.0.3"
-          },
-          "Microsoft.AspNetCore.SignalR": {
-            "target": "Package",
-            "version": "1.0.0-alpha2-final"
+            "version": "[2.0.1, )"
           }
         },
         "imports": [

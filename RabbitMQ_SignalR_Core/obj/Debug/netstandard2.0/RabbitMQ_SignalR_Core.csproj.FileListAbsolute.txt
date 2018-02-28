@@ -7,3 +7,11 @@ F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Core\obj\D
 F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Core\obj\Debug\netstandard2.0\RabbitMQ_SignalR_Core.AssemblyInfo.cs
 F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Core\obj\Debug\netstandard2.0\RabbitMQ_SignalR_Core.dll
 F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Core\obj\Debug\netstandard2.0\RabbitMQ_SignalR_Core.pdb
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Core\bin\Debug\netstandard2.0\RabbitMQ_SignalR_Core.deps.json
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Core\bin\Debug\netstandard2.0\RabbitMQ_SignalR_Core.dll
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Core\bin\Debug\netstandard2.0\RabbitMQ_SignalR_Core.pdb
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Core\obj\Debug\netstandard2.0\RabbitMQ_SignalR_Core.csproj.CoreCompileInputs.cache
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Core\obj\Debug\netstandard2.0\RabbitMQ_SignalR_Core.AssemblyInfoInputs.cache
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Core\obj\Debug\netstandard2.0\RabbitMQ_SignalR_Core.AssemblyInfo.cs
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Core\obj\Debug\netstandard2.0\RabbitMQ_SignalR_Core.dll
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Core\obj\Debug\netstandard2.0\RabbitMQ_SignalR_Core.pdb

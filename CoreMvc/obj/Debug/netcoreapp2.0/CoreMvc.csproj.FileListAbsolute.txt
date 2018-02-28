@@ -14,3 +14,19 @@ F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\obj\Debug\netcoreap
 F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.AssemblyInfo.cs
 F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.dll
 F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.pdb
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\bin\Debug\netcoreapp2.0\CoreMvc.deps.json
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\bin\Debug\netcoreapp2.0\CoreMvc.runtimeconfig.json
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\bin\Debug\netcoreapp2.0\CoreMvc.runtimeconfig.dev.json
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\bin\Debug\netcoreapp2.0\CoreMvc.dll
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\bin\Debug\netcoreapp2.0\CoreMvc.pdb
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\bin\Debug\netcoreapp2.0\RabbitMQ_SignalR_Core.dll
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\bin\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.dll
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\bin\Debug\netcoreapp2.0\RabbitMQ_SignalR_Core.pdb
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\bin\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.pdb
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.csprojResolveAssemblyReference.cache
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.csproj.CoreCompileInputs.cache
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.AssemblyInfoInputs.cache
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.AssemblyInfo.cs
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.dll
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\CoreMvc\obj\Debug\netcoreapp2.0\CoreMvc.pdb

@@ -11,12 +11,19 @@
     });
 
     connection.on('newMessage', texto => {
+
         $("#nova-mensagem").append("<div>" + texto + "</div>");
     });
 
     $("#btn-enviar").click(function () {
-        var data = $("#mensagem-chat").val();
-        connection.invoke('SendMessage', data);
+        var mensagem = $("#mensagem-chat").val();
+        
+        $("#nova-mensagem").append("<div><h3 style='color:#0000FF'>" + mensagem + "</h3></div>");
+
+        var user = $("#ClienteId").select().val();
+        var usrName = $("#user").val();
+
+        connection.invoke('SendMessage', (usrName + " : " + mensagem), user);
         $("#mensagem-chat").val('');
     });    
 });

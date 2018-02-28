@@ -9,3 +9,14 @@ F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Service\ob
 F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Service\obj\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.AssemblyInfo.cs
 F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Service\obj\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.dll
 F:\Pessoal\Desenvolvimento\RabbitMQ\RabbitMQ-SignalR\RabbitMQ_SignalR_Service\obj\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.pdb
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Service\bin\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.deps.json
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Service\bin\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.runtimeconfig.json
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Service\bin\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.runtimeconfig.dev.json
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Service\bin\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.dll
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Service\bin\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.pdb
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Service\obj\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.csprojResolveAssemblyReference.cache
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Service\obj\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.csproj.CoreCompileInputs.cache
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Service\obj\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.AssemblyInfoInputs.cache
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Service\obj\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.AssemblyInfo.cs
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Service\obj\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.dll
+C:\Users\eli.santos\Desktop\Meus Documentos\Desenvolvimento\GIT\Rabbitmq_Signalr_Core\RabbitMQ_SignalR_Service\obj\Debug\netcoreapp2.0\RabbitMQ_SignalR_Service.pdb

@@ -2,17 +2,17 @@
     ViewData["Title"] = "Chat";
 }
 
-
 <div class="container">
     <div class="row">
-        <div class="col-lg-6">
-            <form>
-                <div class="form-group">
-                    <label for="mensagem-chat">Chat</label>
-                    <input class="form-control" type="text" name="mensagem-chat" id="mensagem-chat" aria-describedby="emailHelp" placeholder="Digite uma mensagem">
-                </div>
-                <button class="btn btn-primary" id="btn-enviar" type="button">Enviar</button>
-            </form>
+        <div class="col-6">
+            <div class="form-group">
+                <label>Escolha o cliente:</label> 
+                @Html.DropDownList("ClienteId", null, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <textarea cols="50" rows="10" class="form-control" name="mensagem-chat" id="mensagem-chat" aria-describedby="emailHelp" placeholder="Digite uma mensagem"></textarea>
+            </div>
+            <button class="btn btn-primary" id="btn-enviar" type="button">Enviar</button>
         </div>
     </div>
     <div class="row">
@@ -20,12 +20,13 @@
             <div role="alert">
                 <h6></h6>
                 <p id="nova-mensagem">
-                    <!-- Aguardando novas  mensagens!-->
                 </p>
             </div>
         </div>
     </div>
 </div>
+
+<input type="hidden" id="user" value="@User.Identity.Name" />
 
 <script src="~/lib/jquery/dist/jquery.js"></script>
 <script src="~/lib/signalr/dist/browser/signalr-client-1.0.0-alpha2-final.min.js"></script>

@@ -6479,7 +6479,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\elipe\\.nuget\\packages\\": {},
+    "C:\\Users\\eli.santos\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -6488,25 +6489,26 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "F:\\Pessoal\\Desenvolvimento\\RabbitMQ\\RabbitMQ-SignalR\\RabbitMQ_SignalR_Service\\RabbitMQ_SignalR_Service.csproj",
+      "projectUniqueName": "C:\\Users\\eli.santos\\Desktop\\Meus Documentos\\Desenvolvimento\\GIT\\Rabbitmq_Signalr_Core\\RabbitMQ_SignalR_Service\\RabbitMQ_SignalR_Service.csproj",
       "projectName": "RabbitMQ_SignalR_Service",
-      "projectPath": "F:\\Pessoal\\Desenvolvimento\\RabbitMQ\\RabbitMQ-SignalR\\RabbitMQ_SignalR_Service\\RabbitMQ_SignalR_Service.csproj",
-      "packagesPath": "C:\\Users\\elipe\\.nuget\\packages\\",
-      "outputPath": "F:\\Pessoal\\Desenvolvimento\\RabbitMQ\\RabbitMQ-SignalR\\RabbitMQ_SignalR_Service\\obj\\",
+      "projectPath": "C:\\Users\\eli.santos\\Desktop\\Meus Documentos\\Desenvolvimento\\GIT\\Rabbitmq_Signalr_Core\\RabbitMQ_SignalR_Service\\RabbitMQ_SignalR_Service.csproj",
+      "packagesPath": "C:\\Users\\eli.santos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eli.santos\\Desktop\\Meus Documentos\\Desenvolvimento\\GIT\\Rabbitmq_Signalr_Core\\RabbitMQ_SignalR_Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\elipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\eli.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\elipe\\.dotnet\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6525,16 +6527,16 @@
         "dependencies": {
           "Microsoft.AspNetCore.SignalR.Client": {
             "target": "Package",
-            "version": "1.0.0-alpha2-final"
+            "version": "[1.0.0-alpha2-final, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           },
           "RabbitMQ.Client": {
             "target": "Package",
-            "version": "5.0.1"
+            "version": "[5.0.1, )"
           }
         },
         "imports": [
